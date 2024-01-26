@@ -9,7 +9,7 @@
         <li>JavaScript</li>
 </ul>
 
-> https://daliosy.github.io/c/mario
+> https://daliosy.github.io/mario
 
 <br>
 
